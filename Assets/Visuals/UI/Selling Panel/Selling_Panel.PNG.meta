@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 111401ae708012043b6545197f7eec39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Selling_Panel
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 60
+        width: 709
+        height: 990
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8574515ab1269439fb9ead794308e4
+      internalID: 2123819680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selling_Icon_Left
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 883
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68227c3c432f80943a7bacdcf9476777
+      internalID: 556826562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold_Coin
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 953
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2bf70ba4fc13f49ae2e4d91c8c9570
+      internalID: -1933652288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Plant_Panel
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 657
+        width: 565
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdd8d3bd4248e4497d33fcdca462fc
+      internalID: -1100577518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selling_Icon_Right
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 685
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbbbe253d26a94c8aae645b9a52b7e
+      internalID: -1743048486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selling_Amount
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 779
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c30d4dc4682cf42869840d977403df
+      internalID: -87869492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Plant
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 477
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8507ae2f1bf78439730637f05fd981
+      internalID: 1018784909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Plant_Remove
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 576
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffaa3d830e2ca042ad748701348a508
+      internalID: -2121296353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selling_Button
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 500
+        width: 230
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 45, z: 53, w: 45}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6b8bab7fa10a42ab3253d27a84f34
+      internalID: -1434877611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad_Seed
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 361
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a667a572a1ca4d9489c17628b533a8db
+      internalID: -352685605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lilypad_Seed_Backdrop
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 361
+        width: 113
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb5d51ddeaeba4ca61dd149908b6af
+      internalID: 1727797819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Deco_Plant_Left
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 361
+        width: 168
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c0bfd33995a144abd3e2a7de38396
+      internalID: -1430901302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Deco_Plant_Right
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 361
+        width: 168
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3a58fcc5d2d74c81c9d189659addf
+      internalID: -1808978193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirlybird_Seed_Backdrop
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 235
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd364ce2525d1bd4b8c40de7c1a5575f
+      internalID: -75208025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Whirlybird_Seed
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 235
+        width: 119
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645f310361cdff42a503cee3d0ddced
+      internalID: -451801897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Deco_Seed_Left
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 252
+        width: 187
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9283931530bf4ea9675adc2e15125
+      internalID: -790340533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Deco_Seed_Right
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 252
+        width: 187
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a0d9c90d3a20b48993996c54745085
+      internalID: 508500320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Seed_PlantType
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 156
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40b97b86c4dea45b6a774a140194c8
+      internalID: -1751438752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Seed_Selected
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 59
+        width: 143
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe73606f6bbde42bde0261b3e83d7d
+      internalID: -438012146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Seed
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 59
+        width: 143
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ebb9a3d34cc249882134bf29275bf
+      internalID: -1103788315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Seed_Amount
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 156
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee151e5a9581464786686e18f82ce77
+      internalID: -1124312665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Plant_Amount
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 168
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 13, z: 20, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51d7a8fe11e6224e8f89d49ae47357a
+      internalID: 623158622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Deco_Plant_Bottom
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 104
+        width: 342
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048981a96a4e0e4b997b967cf693094
+      internalID: -174852417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventory_Plant_Add
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 577
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b0685b1bd2b14887ce4080cc3a68e
+      internalID: 695283156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Selling_Panel_8: 1924321284
+      Selling_Panel_18: -976169555
+      Selling_Panel_24: -358296334
+      Selling_Panel_22: -1858495266
+      Whirlybird_Seed: -451801897
+      Inventory_Deco_Seed_Left: -790340533
+      Selling_Amount: -87869492
+      Selling_Panel_60: 1158879988
+      Inventory_Plant_Add: 695283156
+      Lilypad_Seed_Backdrop: 1727797819
+      Selling_Panel_16: -248239528
+      Selling_Panel_59: -506058023
+      Selling_Panel_11: -1101740884
+      Selling_Panel_29: -1313063149
+      Selling_Panel_40: 1866637522
+      Selling_Panel_42: 1322069636
+      Selling_Panel_17: 229344541
+      Selling_Panel_25: -1747690915
+      Selling_Panel_47: -1072845908
+      Selling_Panel_57: 982305954
+      Selling_Panel_48: -327560787
+      Selling_Panel_56: -1243883897
+      Selling_Panel_53: -751434900
+      Selling_Icon_Right: -1743048486
+      Selling_Panel_46: 129946233
+      Inventory_Plant_Amount: 623158622
+      Selling_Panel_14: -40192602
+      Gold_Coin: -1933652288
+      Inventory_Deco_Plant_Bottom: -174852417
+      Selling_Panel_32: -1280751964
+      Inventory_Plant: 1018784909
+      Selling_Panel_19: 792375116
+      Inventory_Seed_Selected: -438012146
+      Selling_Panel_26: 714455910
+      Inventory_Deco_Seed_Right: 508500320
+      Selling_Panel_33: 1748090640
+      Selling_Panel_45: 759385932
+      Selling_Panel_41: 1346681586
+      Inventory_Deco_Plant_Left: -1430901302
+      Selling_Panel_39: -1255495966
+      Selling_Panel_21: 1139785199
+      Selling_Panel_23: -1497294678
+      Whirlybird_Seed_Backdrop: -75208025
+      Inventory_Plant_Remove: -2121296353
+      Selling_Panel_30: -596505432
+      Selling_Button: -1434877611
+      Selling_Panel_27: -62655813
+      Selling_Panel_34: 1833114786
+      Selling_Panel: 2123819680
+      Inventory_Seed: -1103788315
+      Selling_Panel_50: -2031494046
+      Selling_Panel_36: 709722601
+      Selling_Panel_28: -1008719133
+      Selling_Panel_44: -1903270811
+      Lilypad_Seed: -352685605
+      Inventory_Deco_Plant_Right: -1808978193
+      Selling_Icon_Left: 556826562
+      Inventory_Plant_Panel: -1100577518
+      Inventory_Seed_Amount: -1124312665
+      Inventory_Seed_PlantType: -1751438752
+      Selling_Panel_49: 1563448956
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

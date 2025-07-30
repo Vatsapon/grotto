@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c867a165234ad2498d5f78cc0cd611f, type: 3}
+  m_Name: Inventory Size Upgrade
+  m_EditorClassIdentifier: 
+  upgradeName: Inventory Size
+  upgradeSprite: {fileID: 21300000, guid: 3d1e38d95b121374da6aa99bc2f2cbf4, type: 3}
+  upgradeDescription: Increase slot capacity.
+  upgradeLabel: Stack Amount
+  upgrades:
+  - price: 20
+    upgradeLabel: 7
+    stackAmount: 7
+  - price: 30
+    upgradeLabel: 10
+    stackAmount: 10
+  - price: 40
+    upgradeLabel: 12
+    stackAmount: 12

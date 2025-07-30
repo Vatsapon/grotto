@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b2a7ea146b52014dbe759d66af159d4, type: 3}
+  m_Name: Lillypad Seed
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemTexture: {fileID: 21300000, guid: a540cc656d7c01645a29817e780f92c6, type: 3}
+  itemName: Lillypad Seed
+  itemDescription: Grows into a lillypad when planted
+  sellable: 0
+  sellPrice: 10
+  stackable: 1
+  maxAmount: 5
+  itemPrefab: {fileID: 4989870803210626502, guid: 9ba8ac2550a07e446bd6ea63c6b129a2,
+    type: 3}
+  holdingPrefab: {fileID: 0}
