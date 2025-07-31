@@ -8,7 +8,7 @@ A 3D puzzle block-based-coding game where you have to give the Slime a limited a
 **Period:** August 2022 - March 2023
 
 ## 📁 Project Structure
-- 'Assets/Animations' - All animation-related files (e.g. Slime's movement, Spike, Command Item, etc.).
+- 'Assets/Animations' - All animation-related files (e.g. Player's movement, Door mechanism, etc.).
 - 'Assets/Editor' - All unity editor-related files (e.g. Attribute, PropertyDrawer)
 - 'Assets/Fonts' - All font that being used in this project.
 - 'Assets/Materials' - All simple materials for tile blocks (e.g. Grass, Water, Dirt, etc.).
